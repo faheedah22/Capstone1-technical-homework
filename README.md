@@ -1,2 +1,3 @@
-# Hello This is capstone 1
-# Capstone1-technical-homework
+# Hi, I am learning to use git and github.
+# This is my first task for this class.
+
